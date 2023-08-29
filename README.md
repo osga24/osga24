@@ -21,7 +21,7 @@
 * 幫許多Discord群撰寫Discord Bot
 
 ## 🎭語言
-[![My Skills](https://skillicons.dev/icons?i=py,react,java,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,react,java,cs,cpp,nextjs,js)](https://skillicons.dev)
 
 ## 📻應用
 [![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bots)](https://skillicons.dev)

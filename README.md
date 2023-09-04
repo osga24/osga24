@@ -15,7 +15,7 @@
 
   -----[![My Skills](https://skillicons.dev/icons?i=instagram,discord)](https://skillicons.dev)-----
 
-  `---os324_ - osga_---`
+  `----os324_ - osga_----`
 
 ## 📦作品
 * 幫海青資訊撰寫科網並架設及管理 [科網hcvsCS](https://www.hcvscs.us/)

@@ -2,12 +2,7 @@
 <h3 align="center">student from TW</h3>
 
 ## 🐶關於我
-> https://osga.lol
+> ### 🌐https://osga.lol
+![](https://github-readme-stats.vercel.app/api?username=osga24&show_icons=true&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osga24&theme=zenburn)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osga24&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osga24&theme=zenburn)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osga24&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osga24&theme=zenburn&utcOffset=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent550102&layout=compact&theme=dracula)

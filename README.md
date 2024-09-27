@@ -2,13 +2,12 @@
 <h3 align="center">student from TW</h3>
 
 ## 🐶關於我
-https://osga.lol
+> https://osga.lol
 
-## 🎭語言
-[![My Skills](https://skillicons.dev/icons?i=py,react,java,cs,cpp,nextjs,js)](https://skillicons.dev)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osga24&theme=zenburn)
 
-## 📻應用
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bots)](https://skillicons.dev)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osga24&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osga24&theme=zenburn)
 
-## ⌨️編譯器
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea)](https://skillicons.dev)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osga24&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osga24&theme=zenburn&utcOffset=8)

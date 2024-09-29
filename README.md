@@ -4,7 +4,7 @@
 ## 🐶 About me
 
 - 🐮 CTF player , currently in the `B33F 50μP` team
-- 🖥️ 2nd Information Team on `SCAICT`
+- 🖥️ 3rd Information Team on `SCAICT`
 - 👾 Founder of `THJCC CTF`.
 - 🤖 Discord Bot Developer / 🌱 Junior in Cyber Security / 💻 Full-Stack Beginner.
 - 📖 Course Instructor / 🎤 Agenda Speaker .

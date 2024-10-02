@@ -10,9 +10,11 @@
 - 📖 Course Instructor / 🎤 Agenda Speaker .
 
 ## 🌐 Info
-- [😀 ME](https://osga.lol)
-- [📄 BLOG](https://blog.osga.lol)
+- [📄 ME](https://osga.lol)
+- [📝 BLOG](https://blog.osga.lol)
 - [🐛 HITCON Zeroday](https://zeroday.hitcon.org/user/os24)
+- 📧 contect: `me@osga.lol`
 
 ![](https://github-readme-stats.vercel.app/api?username=osga24&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincent550102&layout=compact&theme=dracula)
+

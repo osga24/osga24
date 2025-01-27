@@ -1,4 +1,4 @@
-<h1 align="center">hello ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), I'm OsGa.</h1>
+<h1 align="center">hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm OsGa.</h1>
 <h3 align="center">A student from studying NYUST</h3>
 
 ## 🐶 About me

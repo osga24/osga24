@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ccc6d7d1-7c94-42b5-b2d8-a990b2145295" alt="OsGa Github Banner" width="100%"/>
-</div>
-
 <h1 align="center">hello  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm OsGa.</h1>
 
 <div align="center">

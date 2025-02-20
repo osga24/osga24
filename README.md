@@ -4,7 +4,7 @@
   
   [![Website](https://img.shields.io/badge/Website-osga.dev-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://www.osga.dev)
   [![GitHub](https://img.shields.io/badge/GitHub-osga24-black?style=for-the-badge&logo=github)](https://github.com/osga24)
-  [![Email](https://img.shields.io/badge/Email-me%40osga.lol-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@osga.lol)
+  [![Email](https://img.shields.io/badge/Email-osga%40啥.tw-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarhuang950324@gmail.com)
   
 </div>
 

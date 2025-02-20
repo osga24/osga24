@@ -16,26 +16,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osga24&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="OsGa's GitHub Streak"/>
 </div>
 
-## 🌐 Connect with Me
+## 🔨 Tools
+[![My tools](https://skillicons.dev/icons?i=neovim,vscode,idea,linux,kali,docker,sublime,git)](https://skillicons.dev)
 
-<div align="center">
-  <a href="mailto:me@osga.lol">
-    <img src="https://img.shields.io/badge/Email-me%40osga.lol-%23D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/OsGa24">
-    <img src="https://img.shields.io/badge/github-OsGa24-%23181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/os324_">
-    <img src="https://img.shields.io/badge/Instagram-os324_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <br/>
-  <a href="https://facebook.com/profile.php">
-    <img src="https://img.shields.io/badge/Facebook-Oscar_Huang-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://discord.com/users/osga_">
-    <img src="https://img.shields.io/badge/Discord-osga__-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,java,bots,nextjs,vue,react,tailwind,ts)](https://skillicons.dev)
+
+
 
 <div align="center">
     

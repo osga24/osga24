@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Hello   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm OsGa.</h1>
-OsGa / os24
+  <h3>Hello   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , here is  </h3>
+
+  <img src="public/name.gif" width=300px />
+    
+  `OsGa` or `os24`
 </div>
 
 

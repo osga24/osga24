@@ -1,12 +1,8 @@
-<h1 align="center">Hello   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm OsGa.</h1>
-
 <div align="center">
-  
-  [![Website](https://img.shields.io/badge/Website-osga.dev-blue?style=for-the-badge&logo=About.me&logoColor=white)](https://www.osga.dev)
-  [![GitHub](https://img.shields.io/badge/GitHub-osga24-black?style=for-the-badge&logo=github)](https://github.com/osga24)
-  [![Email](https://img.shields.io/badge/Email-osga%40啥.tw-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarhuang950324@gmail.com)
-  
+  <h1>Hello   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm OsGa.</h1>
+OsGa / os24
 </div>
+
 
 ## 🤓 關於我 / About me 
 <img align="right" alt="holoface" width="450" src="public/me.png">

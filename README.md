@@ -11,9 +11,11 @@
 <img align="right" alt="holoface" width="450" src="public/me.png">
 <div align="left">
 
-   
+   <img src="public/mc.png" />
 
-  **Alo，我是 OsGa，目前就讀國立雲林科技大學，對資訊相關技能充滿熱情。**
+  <h3>Alo，我是 OsGa</h3>
+
+  **目前就讀國立雲林科技大學，對資訊相關技能充滿熱情。**
 
   *我專注於網路安全、程式設計和相關領域，並積极參與資訊社群，經常出沒在一些社群活動及社團營隊。*
   
@@ -22,8 +24,6 @@
   - 👤 https://osga.dev
   - 📝 https://blog.osga.dev
   - 📩 [me@osga.dev](mailto:me@osga.dev) / [osga@啥.tw](mailto:osga@啥.tw)
-  
-  <img src="public/mc.png" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=osga24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="OsGa's GitHub Stats"/>
 </div>

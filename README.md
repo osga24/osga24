@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hello   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , here is  </h3>
 
-  <img src="public/name2.gif" width=300px />
+  <img src="public/name.gif" width=300px />
     
   `OsGa` or `os24`
 </div>

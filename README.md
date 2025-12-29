@@ -7,7 +7,7 @@
 </div>
 
 
-## 🤓 關於我 / About me 
+## 🤓 About me 
 <img align="right" alt="holoface" width="450" src="public/me.png">
 <div align="left">
 
@@ -28,14 +28,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=osga24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="OsGa's GitHub Stats"/>
 </div>
 
-## 🔨 工具 / Tools
+## 🔨 Tools
 > 使用這些助於我日常開發、滲透
 > 
 > 但基本上 I Use VIM btw
 
 [![My tools](https://skillicons.dev/icons?i=neovim,vscode,idea,linux,kali,docker,sublime,git)](https://skillicons.dev)
 
-## 💻 技術堆疊 / Tech Stack
+## 💻 Tech Stack
 > 我會一點這些，但還有億點不會
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,java,bots,nextjs,vue,react,tailwind,ts)](https://skillicons.dev)

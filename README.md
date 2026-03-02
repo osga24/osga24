@@ -22,7 +22,7 @@
   > ⬇︎ See below for more info:
   - 👤 https://osga.dev
   - 📝 https://blog.osga.dev
-  - 📩 [me@osga.dev](mailto:me@osga.dev) / [osga@啥.tw](mailto:osga@啥.tw)
+  - 📩 [hi@osga.dev](mailto:hi@osga.dev) / [osga@啥.tw](mailto:osga@啥.tw)
 
 </div>
 
